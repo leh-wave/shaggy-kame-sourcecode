@@ -1,0 +1,30 @@
+{
+	"storyName": "Shaggy's Private Lessons",
+	"hideFreeplay": false,
+	"weekBackground": "shaggy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"menushaggy",
+		"invisiblegf",
+		"menubf2"
+	],
+	"songs": [
+		[
+			"kamehameha",
+			"shaggy",
+			[
+				0,
+				133,
+				73
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

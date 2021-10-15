@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shaggy_down"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shaggy_idle"
+		},
+		{
+			"offsets": [
+				0,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shaggy_right"
+		},
+		{
+			"offsets": [
+				197,
+				-138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shaggy_left"
+		},
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shaggy_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shaggy_supersonic",
+	"position": [
+		-70,
+		-20
+	],
+	"healthicon": "shaggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		120,
+		80
+	],
+	"camera_position": [
+		-160,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

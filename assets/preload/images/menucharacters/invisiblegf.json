@@ -1,0 +1,10 @@
+{
+	"idle_anim": "invis",
+	"image": "invisible gf",
+	"position": [
+		-60,
+		-30
+	],
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}
